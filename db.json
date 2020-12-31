@@ -36,7 +36,6 @@
       "Sub2": "Maths",
       "Sub3": "Chemistry"
     },
-    {,
     {
       "userId": 4,
       "firstName": "Has",
@@ -48,7 +47,8 @@
       "Sub1": "Physics",
       "Sub2": "Maths",
       "Sub3": "Chemistry"
-    }
+    },
+	{
       "userId": 5,
       "firstName": "Mus",
       "lastName": "Lee",
