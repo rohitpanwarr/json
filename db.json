@@ -1,0 +1,64 @@
+{
+  "students": [
+    {
+      "userId": 1,
+      "firstName": "Krish",
+      "lastName": "Lee",
+      "phoneNumber": "123456",
+      "emailAddress": "krish.lee@learningcontainer.com",
+      "class":  3,
+      "section": "A",
+      "Sub1": "Maths",
+      "Sub2": "Physics",
+      "Sub3": "Chemistry"
+    },
+    {
+      "userId": 2,
+      "firstName": "Racho",
+      "lastName": "Lee",
+      "phoneNumber": "23432",
+      "emailAddress": "raccho.lee@learningcontainer.com",
+      "class":  4,
+      "section": "B",
+      "Sub1": "Commerce",
+      "Sub2": "Maths",
+      "Sub3": "Hindi"
+    },
+    {
+      "userId": 3,
+      "firstName": "Bret",
+      "lastName": "Lee",
+      "phoneNumber": "5645645",
+      "emailAddress": "bret.lee@learningcontainer.com",
+      "class":  5,
+      "section": "A",
+      "Sub1": "Physics",
+      "Sub2": "Maths",
+      "Sub3": "Chemistry"
+    },
+    {
+      "userId": 4,
+      "firstName": "Has",
+      "lastName": "Lee",
+      "phoneNumber": "5645645",
+      "emailAddress": "has.lee@learningcontainer.com",
+      "class":  7,
+      "section": "B",
+      "Sub1": "Physics",
+      "Sub2": "Maths",
+      "Sub3": "Chemistry"
+    },
+	{
+      "userId": 5,
+      "firstName": "Mus",
+      "lastName": "Lee",
+      "phoneNumber": "5645645",
+      "emailAddress": "mus.lee@learningcontainer.com",
+      "class":  6,
+      "section": "B",
+      "Sub1": "Physics",
+      "Sub2": "Maths",
+      "Sub3": "Chemistry"
+    }
+  ]
+}
